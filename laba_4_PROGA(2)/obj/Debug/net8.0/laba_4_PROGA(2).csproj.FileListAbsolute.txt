@@ -1,0 +1,14 @@
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\bin\Debug\net8.0\laba_4_PROGA(2).exe
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\bin\Debug\net8.0\laba_4_PROGA(2).deps.json
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\bin\Debug\net8.0\laba_4_PROGA(2).runtimeconfig.json
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\bin\Debug\net8.0\laba_4_PROGA(2).dll
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\bin\Debug\net8.0\laba_4_PROGA(2).pdb
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).AssemblyInfoInputs.cache
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).AssemblyInfo.cs
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).csproj.CoreCompileInputs.cache
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).dll
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\refint\laba_4_PROGA(2).dll
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).pdb
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\laba_4_PROGA(2).genruntimeconfig.cache
+C:\Users\newgg\source\repos\laba_4_PROGA(2)\laba_4_PROGA(2)\obj\Debug\net8.0\ref\laba_4_PROGA(2).dll
